@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.vutvapplication'
+    namespace 'com.improve10x.remoteconnect'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.vutvapplication"
+        applicationId "com.improve10x.remoteconnect"
         minSdk 21
         targetSdk 33
         versionCode 1
