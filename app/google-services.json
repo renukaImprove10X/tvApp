@@ -36,6 +36,35 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:432717460410:android:52188350d9eed3a9ade383",
+        "android_client_info": {
+          "package_name": "com.improve10x.remoteconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432717460410-uqgrh92p747cac369i7uetpi1of818h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaJbUcMM9RmWLxSwst8L_m3yLPhUnvA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432717460410-uqgrh92p747cac369i7uetpi1of818h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:432717460410:android:b007151aee17dbc0ade383",
         "android_client_info": {
           "package_name": "com.improve10x.vumobileapp"
